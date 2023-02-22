@@ -21,12 +21,12 @@ Software:
 
 ## Ajustable Hyperparameters
 
-sqzSize = 8;                    % Squeeze size (pooling size) along time axis
-outputMode = 'phase';           % Output method ('amplitude', 'psd', 'phase', 'amplitude+phase', 'psd+phase')
-selFreqRange = [1,50];          % Frequency range (Hz)
-freqPrecision = 1;              % Frequency domain resolution
-waveletName = 'db4';            % Wavelet name
-gaussianFactor = 0.5;           % p-value of generalized S-transform to ajust the Gaussian window shape
+- sqzSize = 8;                    % Squeeze size (pooling size) along time axis
+- outputMode = 'phase';           % Output method ('amplitude', 'psd', 'phase', 'amplitude+phase', 'psd+phase')
+- selFreqRange = [1,50];          % Frequency range (Hz)
+- freqPrecision = 1;              % Frequency domain resolution
+- waveletName = 'db4';            % Wavelet name
+- gaussianFactor = 0.5;           % p-value of generalized S-transform to ajust the Gaussian window shape
 
 ## Author
 
