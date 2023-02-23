@@ -19,7 +19,7 @@ System:
 Software:
 - MATLAB R2019b and later releases
 
-## Ajustable Hyperparameters
+## Adjustable Hyperparameters
 
 - sqzSize = 8;                    % Squeeze size (pooling size) along time axis
 - outputMode = 'phase';           % Output method ('amplitude', 'psd', 'phase', 'amplitude+phase', 'psd+phase')
