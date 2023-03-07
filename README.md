@@ -6,7 +6,6 @@ This paper presents a batch processing implementation of S-transform named BST t
 
 Please cite the tool using this website repository and the manuscript:
 
-- Guoyang Liu. "BST: A tool for batch processing of S-transform." Software Impacts (Submitted).
 -	Guoyang Liu, Weidong Zhou, and Minxing Geng. "Automatic Seizure Detection Based on S-Transform and Deep Convolutional Neural Network." International journal of neural systems 30, no. 04 (2020): 1950024. https://doi.org/10.1142/S0129065719500242 
 -	Guoyang Liu, Xiao Han, Lan Tian, Weidong Zhou, and Hui Liu. "ECG Quality Assessment Based on Hand-Crafted Statistics and Deep-Learned S-Transform Spectrogram Features." Computer Methods and Programs in Biomedicine 208 (2021): 106269. https://doi.org/10.1016/j.cmpb.2021.106269 
 -	Minxing Geng, Weidong Zhou, Guoyang Liu, Chaosong Li, and Yanli Zhang. "Epileptic Seizure Detection Based on Stockwell Transform and Bidirectional Long Short-Term Memory." IEEE Transactions on Neural Systems and Rehabilitation Engineering 28, no. 3 (2020): 573-80. https://doi.org/10.1109/TNSRE.2020.2966290 
