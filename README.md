@@ -1,6 +1,6 @@
 # BST: A tool for batch processing of S-transform v1.0
 
-This paper presents a batch processing implementation of S-transform named BST to boost the efficiency of algorithms that frequently compute S-transform. The proposed BST supports GPU acceleration and CPU vectorization acceleration based on MATLAB, which can achieve approximately 12x and 5x acceleration compared to vanilla S-transform, respectively. Besides, the designed BST can also be embedded into deep neural network and combined with online augmentation strategy to enhance the model performance. Additionally, a horizontal squeeze operation is supported for BST that can realize dimensionality reduction.
+This repository presents a batch processing implementation of S-transform named BST to boost the efficiency of algorithms that frequently compute S-transform. The proposed BST supports GPU acceleration and CPU vectorization acceleration based on MATLAB, which can achieve approximately 12x and 5x acceleration compared to vanilla S-transform, respectively. Besides, the designed BST can also be embedded into deep neural network and combined with online augmentation strategy to enhance the model performance. Additionally, a horizontal squeeze operation is supported for BST that can realize dimensionality reduction.
 
 ## Citation
 
